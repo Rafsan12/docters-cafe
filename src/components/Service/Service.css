@@ -1,0 +1,15 @@
+.service-container{
+  padding: 20px;
+  border-radius: 5px;
+  background: #ffff;
+  box-shadow:  35px 35px 70px #bbbaba,
+               -35px -35px 70px #fdfcfc;
+  
+}
+
+.service-container img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
